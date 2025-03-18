@@ -19,7 +19,7 @@ A **real-time chat application** built with **React (Vite), Tailwind CSS, DaisyU
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/Shanuziyaparveen/realtime-chat.git
+git clone https://github.com/shanushifan/realtime-chat.git
 cd realtime-chat
 # *Install Backend Dependencies*
 npm install
